@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.google-btn
+{
+  text-align: center;
+  background-color:  #4285F4;
+  color: white;
+  font-weight: bold;
+  width: 200px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  
+
+}
+
+.container
+{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+img
+{
+  width: 100%;
+}
+
+.left
+{
+  width: 50%;
+}
+
+.right
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
